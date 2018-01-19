@@ -1,0 +1,10 @@
+1 10 2 Car Design
+1 15 3 Art Business Car
+1 20 3 Art Business Fashion
+1 25 4 Art Car Design Fashion
+2 15 3 Art Business Fashion
+2 20 1 Entertainment
+3 10 3 Art Business Fashion
+4 10 3 Design Game Home
+4 20 2 Business Fashion
+4 25 3 Art Game Home
