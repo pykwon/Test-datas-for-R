@@ -1,3 +1,0 @@
-trans1 item1
-trans2 item1
-trans2 item2
