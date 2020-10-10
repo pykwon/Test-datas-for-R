@@ -1,4 +1,4 @@
-province,city,fail,pass
+city,province,pass,fail
 1,0,1,0
 1,0,1,0
 0,1,0,1
