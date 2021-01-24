@@ -1,4 +1,4 @@
-번호;이름;키;몸무게
+bunho;irum;total;mean
 101;hong;175;65
 201;lee;185;85
 301;kim;173;60
